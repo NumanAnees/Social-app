@@ -1,4 +1,5 @@
 import React from "react";
+import "./home.css";
 import Topbar from "../../components/topbar/Topbar.jsx";
 import Sidebar from "../../components/sidebar/Sidebar.jsx";
 import Feed from "../../components/feed/Feed.jsx";
